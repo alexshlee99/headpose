@@ -1,0 +1,8 @@
+**/__pycache__
+*.pth
+*.dat
+*.pt
+*.pkl
+.DS_Store
+*.trt
+*.mp4
